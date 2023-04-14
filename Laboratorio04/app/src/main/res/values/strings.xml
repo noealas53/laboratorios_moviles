@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">laboratorio04</string>
+    <string name="name">Nombre</string>
+    <string name="email">Correo Electronico</string>
+    <string name="phone">Numero de telefono</string>
+    <string name="title">Rellene con la siguiente informacion</string>
+    <string name="title_second">Confirmar tu informacion</string>
+    <string name="share">Compartir</string>
+</resources>
